@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋 I'm Kumar Balla
 
-<!--
-**kumarBalla/kumarBalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate
+💻 Full Stack Developer
+🌱 Currently Working on: React, Spring Boot, Blockchain
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔐 Decentralized Crypto Wallet
+
+A blockchain based crypto wallet for secure transactions.
+
+Tech Stack:
+
+* React
+* Web3
+* Blockchain
+* JavaScript
+
+Project Link:
+https://github.com/kumarBalla/Decentralized-Crypto-Wallet
+
+---
+
+### 🛒 E-Commerce React App
+
+An online shopping platform with product browsing and cart functionality.
+
+Tech Stack:
+
+* React
+* Redux
+* Vite
+* JavaScript
+
+Project Link:
+https://github.com/kumarBalla/E-Commerce-React-App
+
+---
+
+## 🛠 Skills
+
+* Java
+* Spring Boot
+* React
+* JavaScript
+* SQL
+* Git & GitHub
+
+---
+
+## 📫 Contact
+
+LinkedIn:[Kumar Balla](https://www.linkedin.com/in/kumar-balla-402b672b4/)
+
+Naukri: [View my profile](https://www.naukri.com/mnjuser/profile)
+
+Email: (kumarballa762@gmail.com)
