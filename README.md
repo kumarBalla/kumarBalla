@@ -38,6 +38,17 @@ Tech Stack:
 Project Link:
 https://github.com/kumarBalla/E-Commerce-React-App
 
+
+## Application Screenshots
+
+### Home Page
+![Home Page](TasteFoodHome.png)
+
+### Cart Page
+![Cart Page](TasteFoodCart.png)
+
+### Food Items
+![Food Items](TasteFoodItems.png)
 ---
 
 ## 🛠 Skills
