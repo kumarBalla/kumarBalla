@@ -28,15 +28,15 @@ https://github.com/kumarBalla/E-Commerce-React-App
 
 #### Home Page
 
-![Home Page](TasteFoodHome.png)
+![Home Page](https://raw.githubusercontent.com/kumarBalla/E-Commerce-React-App/main/TasteFoodHome.png)
 
 #### Cart Page
 
-![Cart Page](TasteFoodCart.png)
+![Cart Page](https://raw.githubusercontent.com/kumarBalla/E-Commerce-React-App/main/TasteFoodCart.png)
 
 #### Food Items
 
-![Food Items](TasteFoodItems.png)
+![Food Items](https://raw.githubusercontent.com/kumarBalla/E-Commerce-React-App/main/TasteFoodItems.png)
 
 ---
 
@@ -61,27 +61,27 @@ https://github.com/kumarBalla/Decentralized-Crypto-Wallet
 
 #### Homepage
 
-![Homepage](Decentralized-Crypto-Wallet-main/MetaMaskHomepage.png)
+![Homepage](https://raw.githubusercontent.com/kumarBalla/Decentralized-Crypto-Wallet/main/Decentralized-Crypto-Wallet-main/MetaMaskHomepage.png)
 
 #### Crypto Dashboard
 
-![Crypto](Decentralized-Crypto-Wallet-main/MetaMaskCrypto.png)
+![Crypto](https://raw.githubusercontent.com/kumarBalla/Decentralized-Crypto-Wallet/main/Decentralized-Crypto-Wallet-main/MetaMaskCrypto.png)
 
 #### Swap Feature
 
-![Swap](Decentralized-Crypto-Wallet-main/MetaMaskSwap.png)
+![Swap](https://raw.githubusercontent.com/kumarBalla/Decentralized-Crypto-Wallet/main/Decentralized-Crypto-Wallet-main/MetaMaskSwap.png)
 
 #### Buy & Sell
 
-![BuySell](Decentralized-Crypto-Wallet-main/MetaMaskBuy\&Sell.png)
+![BuySell](https://raw.githubusercontent.com/kumarBalla/Decentralized-Crypto-Wallet/main/Decentralized-Crypto-Wallet-main/MetaMaskBuy\&Sell.png)
 
 #### Platforms Section
 
-![Platforms](Decentralized-Crypto-Wallet-main/MetaMaskPlatforms.png)
+![Platforms](https://raw.githubusercontent.com/kumarBalla/Decentralized-Crypto-Wallet/main/Decentralized-Crypto-Wallet-main/MetaMaskPlatforms.png)
 
 #### Developer Section
 
-![Developer](Decentralized-Crypto-Wallet-main/MetaMaskDeveloper.png)
+![Developer](https://raw.githubusercontent.com/kumarBalla/Decentralized-Crypto-Wallet/main/Decentralized-Crypto-Wallet-main/MetaMaskDeveloper.png)
 
 ---
 
