@@ -1,8 +1,43 @@
 # Hi 👋 I'm Kumar Balla
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Spring+Boot+Developer;React+Frontend+Developer;Always+Learning+New+Technologies\&center=true\&width=500\&height=45)
+
 🎓 MCA Graduate
 💻 Full Stack Developer
 🌱 Currently Learning: React, Spring Boot, Blockchain
+
+![Profile Views](https://komarev.com/ghpvc/?username=kumarBalla\&label=Profile%20views\&color=0e75b6\&style=flat)
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### ⚙ Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+### 🗄 Database
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=database\&logoColor=white)
+
+### 🧰 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![STS](https://img.shields.io/badge/SpringToolSuite-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
 
 ---
 
@@ -10,18 +45,13 @@
 
 ## 🍽️ Taste Home – Food Ordering Website
 
-A food ordering web application where users can browse veg, non-veg and snack items, add them to cart, and place orders.
+A React based food ordering web application where users can browse food items, add them to cart, and manage orders.
 
 ### Tech Stack
 
-* React
-* Redux
-* Vite
-* JavaScript
-* HTML
-* CSS
+React • Redux • Vite • JavaScript • HTML • CSS
 
-Project Link
+Project Repository
 https://github.com/kumarBalla/E-Commerce-React-App
 
 ### Application Screenshots
@@ -42,19 +72,13 @@ https://github.com/kumarBalla/E-Commerce-React-App
 
 ## 🪙 Decentralized Crypto Wallet
 
-A decentralized cryptocurrency wallet application with a **React frontend** and **Spring Boot backend** that allows users to view crypto assets, swap coins, and manage transactions.
+A full stack crypto wallet application built with **React frontend and Spring Boot backend**.
 
 ### Tech Stack
 
-* React
-* Java
-* Spring Boot
-* Oracle Database
-* JavaScript
-* HTML
-* CSS
+React • Java • Spring Boot • Oracle Database • JavaScript
 
-Project Link
+Project Repository
 https://github.com/kumarBalla/Decentralized-Crypto-Wallet
 
 ### Application Screenshots
@@ -65,7 +89,7 @@ https://github.com/kumarBalla/Decentralized-Crypto-Wallet
 
 #### Crypto Dashboard
 
-![Crypto](https://raw.githubusercontent.com/kumarBalla/Decentralized-Crypto-Wallet/main/Decentralized-Crypto-Wallet-main/MetaMaskCrypto.png)
+![Crypto Dashboard](https://raw.githubusercontent.com/kumarBalla/Decentralized-Crypto-Wallet/main/Decentralized-Crypto-Wallet-main/MetaMaskCrypto.png)
 
 #### Swap Feature
 
@@ -85,33 +109,11 @@ https://github.com/kumarBalla/Decentralized-Crypto-Wallet
 
 ---
 
-# 🛠 Skills
+# 📊 GitHub Stats
 
-### Frontend
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumarBalla\&show_icons=true\&theme=tokyonight)
 
-* React
-* JavaScript
-* HTML
-* CSS
-
-### Backend
-
-* Java
-* Spring Boot
-* REST APIs
-
-### Database
-
-* Oracle
-* SQL
-
-### Tools
-
-* Git
-* GitHub
-* VS Code
-* Spring Tool Suite
-* Maven
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumarBalla\&layout=compact\&theme=tokyonight)
 
 ---
 
